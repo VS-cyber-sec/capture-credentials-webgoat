@@ -44,5 +44,7 @@ Access WebGoat at http://your-ip:8080/WebGoat
 
     Save packets and document findings.
 
+Make the script executable:
 
+     chmod +x setup/install_tools.sh
    
